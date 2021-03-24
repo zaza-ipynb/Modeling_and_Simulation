@@ -13,3 +13,8 @@ it is basic formula from physics.
 analytical methods and also numerical methods with constraint or condition
 influence by air resistance, the formula is a little bit similar. But
 added with air resistance influence, a development from **analytical_pm.ipynb**
+
+
+**RandomWalk.ipynb** Is the example of Random walk simulation, for specific
+case are available in RandomWalkCovid directory that contains final project
+of Modeling and Simulation in Random Walk using COVID-19 spread scenario 
